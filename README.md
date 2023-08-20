@@ -2,7 +2,8 @@
 
 A dynamic Landing page for Concert infos
 
-![front](https://github.com/bsilvers64/venue/assets/48654366/bbb1a32b-e0aa-42eb-820f-daf0c85db6ac)
+![Screenshot 2023-08-20 163337](https://github.com/bsilvers64/venue/assets/48654366/822831bd-3ed7-4215-8c47-0800ca2692d2)
+
 
 
 ## Available Scripts
