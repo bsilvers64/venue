@@ -6,8 +6,7 @@ import Featured from "./components/featured";
 import VenueNfo from "./components/venuenfo";
 import Hightlights from "./components/highlights";
 import Pricing from "./components/pricing";
-
-
+import Location from "./components/location";
 
 const App = () => {
   return (
@@ -27,6 +26,9 @@ const App = () => {
 
       <>
         <Pricing />
+      </>
+      <>
+        <Location />
       </>
 
       <div style={{ backgroundColor: "red", height: "800px" }}></div>
