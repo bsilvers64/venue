@@ -4,20 +4,22 @@ import Header from "./components/header_footer/header";
 import Footer from "./components/header_footer/footer";
 import Featured from "./components/featured";
 import VenueNfo from "./components/venuenfo";
-
-
+import Hightlights from "./components/highlights";
 const App = () => {
   return (
     <div className="App">
       <Header />
 
       <>
-        <Featured/>
+        <Featured />
       </>
 
-    <>
-        <VenueNfo/>
-    </>
+      <>
+        <VenueNfo />
+      </>
+      <>
+        <Hightlights />
+      </>
 
       <div style={{ backgroundColor: "red", height: "800px" }}></div>
       <div style={{ backgroundColor: "blue", height: "800px" }}></div>
