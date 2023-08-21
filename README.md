@@ -4,6 +4,16 @@ A dynamic Landing page for Concert infos
 
 ![Screenshot 2023-08-20 163337](https://github.com/bsilvers64/venue/assets/48654366/822831bd-3ed7-4215-8c47-0800ca2692d2)
 
+## [The Website](https://muddled-experience.surge.sh)
+Deployed using [Surge](https://surge.sh)
+
+the project used the following external React components:
+
+1. [React Awesome_Reveal](https://react-awesome-reveal.morello.dev)
+2. [React Slick](https://react-slick.neostack.com)
+3. [React Scroll](https://www.npmjs.com/package/react-scroll)
+
+and [Material UI](https://mui.com)
 
 
 ## Available Scripts
