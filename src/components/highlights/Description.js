@@ -1,5 +1,5 @@
 import { Fade } from 'react-awesome-reveal'
-import React, { useState } from 'react'
+import React  from 'react'
 
 function Description() {
 

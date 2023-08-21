@@ -5,6 +5,10 @@ import Footer from "./components/header_footer/footer";
 import Featured from "./components/featured";
 import VenueNfo from "./components/venuenfo";
 import Hightlights from "./components/highlights";
+import Pricing from "./components/pricing";
+
+
+
 const App = () => {
   return (
     <div className="App">
@@ -19,6 +23,10 @@ const App = () => {
       </>
       <>
         <Hightlights />
+      </>
+
+      <>
+        <Pricing />
       </>
 
       <div style={{ backgroundColor: "red", height: "800px" }}></div>

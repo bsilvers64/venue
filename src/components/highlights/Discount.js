@@ -1,6 +1,8 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import { Fade, Slide } from "react-awesome-reveal";
+import MyButton from "../utils/MyButton";
+import button_bg from "../../resources/images/button_bg.png";
 
 function Discount() {
 
@@ -46,6 +48,13 @@ function Discount() {
               experience her celebrated discography performed live in a city
               near you.
             </p>
+
+            <MyButton
+              text="purchase tickets"
+              link="https://www.taylorswift.com/tour/"
+              size= "large"
+              bg = {button_bg}
+            />
           </div>
         </Slide>
       </div>
