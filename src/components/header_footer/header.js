@@ -49,10 +49,11 @@ const Header = () => {
         >
           <MenuIcon />
         </IconButton>
+
         <SideDrawer
           open={drawerOpen}
           onClose={(value) => toggleDrawer(value)}
-        />{" "}
+        />
         {/* when we click somewhere else on the screen, it triggers function onClose// like closing the drawer */}
       </Toolbar>
     </AppBar>
